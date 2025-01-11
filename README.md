@@ -1,1 +1,1 @@
-# lhwithaTeqgen.io
+# hwithaTeqgen.io
