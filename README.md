@@ -1,1 +1,1 @@
-# local-teqgen-repo
+# lhwithaTeqgen.io
